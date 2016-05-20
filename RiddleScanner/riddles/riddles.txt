@@ -1,0 +1,168 @@
+How many letters does the correct answer to this puzzle contain?
+
+t = 5
+o = 8
+n = 4
+e = 7
+s = 2
+H8W MA4Y L7557R2 D872 5H7 C8RR7C5 A42W7R 58 5HI2 PUZZL7 C845AI4?
+
+Four. The only possible answer to this question is four. Zero has four letters so that would be incorrect, one has three letters, two has three letters...etc...etc
+
+
+----------------------------------------------------------------------------
+
+How can we measure exactly 4oz of water, with only a 3oz jar and a 5oz jar.
+
+a = 9
+e = 8
+o = 2
+r = 1
+w = 5
+
+H25 C9N 58 M89SU18 8X9CTLY 42Z 2F 59T81 5ITH 2NLY 9 32Z J91 9ND 9 52Z J91?
+
+1. Fill the 5oz jar
+2. Fill the 3oz jar from the 5oz jar
+3. Now we should have 2oz left in the 5oz jar
+4. Dump the 3oz jar
+5. Pour the contents of the 5oz jar in the 3oz jar
+6. Now we should have 2oz in the 3oz jar
+7. Fill 5oz jar
+8. Fill the 3oz jar with the 5oz jar leaving 4oz in the 5 oz jar
+
+
+----------------------------------------------------------------------------
+
+5,7,10,15,22...what's next?
+
+5 = b
+1 = l
+2 = z
+7 = m
+0 = g
+
+b,m,lg,la,zz...what's next?
+
+33
+Each number is the sum of the previous number and the next prime number in the sequence. It is also true that it is the sum of the previous number and the number two one number behind the previous number[F(n - 1) + F(n - 3)]
+5 + 2 = 7
+7 + 3 = 10
+10 + 5 = 15
+15 + 7 = 22
+22 + 11 = 33
+
+
+----------------------------------------------------------------------------
+
+
+1, 11, 21, 1211, 111221, 312211, 13112221...what's next?
+
+1 = p
+2 = q
+3 = r
+, = z
+. = y
+
+pz pp, qpz pqppz pppqqpz rpqqppz prppqqqpyyywhat's next?
+
+1113213211. This is a counting pattern. 11 as the second
+element is stating that the first element has 1 one. 21 is 
+stating that the second element has 2 ones...etc...etc
+
+
+----------------------------------------------------------------------------
+
+
+You have two normal U.S. coins that add up to 35 cents. One of the coins is not a quarter. What are the two coins?
+
+0 = a
+8 = e
+2 = t
+1 = n
+6 = h
+
+YOU 60V8 2WO 1ORM0L US COI1S 2602 0DD UP 2O 35 C812S O18 OF 268 COI1S IS 1O2 0 QU0R28R W602 0R8 268 2WO COI1S?
+
+A quarter and a dime. Only one of the coins is not a quarter.
+
+
+----------------------------------------------------------------------------
+
+
+
+In a bouquet of flowers, all but two are roses, all but two are tulips, and all but two are daisies. How many flowers are in the bouquet?
+
+8 = a
+4 = o
+7 = t
+2 = e
+0 = n
+
+I0 8 B4UQU27 4F FL4W2RS 8LL BU7 7W4 8R2 R4S2S 8LL BU7 7W4 8R2 7ULIPS 80D 8LL BU7 7W4 8R2 D8ISI2S H4W M80Y FL4W2RS 8R2 I0 7H2 B4UQU27?
+
+3. 
+
+Given the way the question is phrased, three is the only possibility
+
+----------------------------------------------------------------------------
+
+a. The chicken came first 
+b. The egg came first 
+c. Statement a is false and Statement b is true. 
+Two of the above statements are true, what is the possibility that the chicken came first?
+9 = a
+2 = e
+4 = i
+8 = h
+1 = t
+
+9. 182 C84CK2N C9M2 F4RS1 B. 182 2GG C9M2 F4RS1 C. S1912M2N1 9 4S F9LS2 9ND S1912M2N1 B 4S 1RU2 1WO OF 182 9BOV2 S1912M2N1S 9R2 1RU2 W891 4S 182 POSS4B4L41Y 1891 182 C84CK2N C9M2 F4RS1?
+
+----------------------------------------------------------------------------
+
+If twelve equals six and six equals three then why doesn't ten equal five?
+5 = s
+4 = t 
+2 = i
+1 = l
+9 = e
+
+2F 4W91V9 9QUA15 52X AND 52X 9QUA15 4HR99 4H9N WHY DO95N4 49N 9QUA1 F2V9
+
+10=3, 10 has three letters
+
+----------------------------------------------------------------------------
+
+You have two ropes. Each takes exactly sixty minutes to burn. Armed with only a lighter, how could you measure out exactly forty five minutes?
+
+9 = e
+2 = a
+0 = t
+8 = u
+3 = o
+
+Y38 H2V9 0W3 R3P9S 92CH 02K9S 9X2C0LY SIX0Y MIN809S 03 B8RN 2RM9D WI0H 3NLY 2 LIGH09R H3W C38LD Y38 M92S8R9 380 9X2C0LY F3R0Y FIV9 MIN809S?
+
+Take one rope and burn it at both ends.
+At the same time, burn one end of the other rope.
+When the first rope finishes burning, light the other end of the remaining rope.
+When it burns out, that's 45 minutes.
+
+----------------------------------------------------------------------------
+
+If it were two hours later, it would be half as long until midnight as it would be if it were an hour later. What time is it?
+
+2 = i
+1 = t
+9 = e
+8 = a
+0 = w
+
+2F 21 09R9 10O HOURS L819R 21 0OULD B9 H8LF 8S LONG UN12L M2DN2GH1 8S 21 0OULD B9 2F 21 09R9 8N HOUR L819R 0H81 12M9 2S 21?
+
+9:00PM
+
+If the time was T, then T + 2 is half the minutes to midnight compared with T + 1.
+So 1 hour halves the gap.
+This can only happen at 10pm and 11pm, which makes the current time 9pm.

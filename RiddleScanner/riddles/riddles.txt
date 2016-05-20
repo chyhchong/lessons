@@ -18,9 +18,9 @@ a = 9
 e = 8
 o = 2
 r = 1
-w = 5
+w = 6
 
-H25 C9N 58 M89SU18 8X9CTLY 42Z 2F 59T81 5ITH 2NLY 9 32Z J91 9ND 9 52Z J91?
+H26 C9N 68 M89SU18 8X9CTLY 42Z 2F 69T81 6ITH 2NLY 9 32Z J91 9ND 9 52Z J91?
 
 1. Fill the 5oz jar
 2. Fill the 3oz jar from the 5oz jar
@@ -42,7 +42,7 @@ H25 C9N 58 M89SU18 8X9CTLY 42Z 2F 59T81 5ITH 2NLY 9 32Z J91 9ND 9 52Z J91?
 7 = m
 0 = g
 
-b,m,lg,la,zz...what's next?
+b,m,lg,lb,zz...what's next?
 
 33
 Each number is the sum of the previous number and the next prime number in the sequence. It is also true that it is the sum of the previous number and the number two one number behind the previous number[F(n - 1) + F(n - 3)]
@@ -64,7 +64,7 @@ Each number is the sum of the previous number and the next prime number in the s
 , = z
 . = y
 
-pz pp, qpz pqppz pppqqpz rpqqppz prppqqqpyyywhat's next?
+pz ppz qpz pqppz pppqqpz rpqqppz prppqqqpyyywhat's next?
 
 1113213211. This is a counting pattern. 11 as the second
 element is stating that the first element has 1 one. 21 is 
@@ -118,6 +118,8 @@ Two of the above statements are true, what is the possibility that the chicken c
 1 = t
 
 9. 182 C84CK2N C9M2 F4RS1 B. 182 2GG C9M2 F4RS1 C. S1912M2N1 9 4S F9LS2 9ND S1912M2N1 B 4S 1RU2 1WO OF 182 9BOV2 S1912M2N1S 9R2 1RU2 W891 4S 182 POSS4B4L41Y 1891 182 C84CK2N C9M2 F4RS1?
+
+The egg came first all other possibilities produce contradictions
 
 ----------------------------------------------------------------------------
 

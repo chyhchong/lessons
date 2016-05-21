@@ -10,6 +10,8 @@ H8W MA4Y L7557R2 D872 5H7 C8RR7C5 A42W7R 58 5HI2 PUZZL7 C845AI4?
 Four. The only possible answer to this question is four. Zero has four letters so that would be incorrect, one has three letters, two has three letters...etc...etc
 
 
+HINT: GO THROUGH THE POSSIBILITIES, IF THE ANSWER WAS ZERO, HOW MANY LETTER DOES ZERO HAVE? WOULD THIS BE A CORRECT ANSWER?
+
 ----------------------------------------------------------------------------
 
 How can we measure exactly 4oz of water, with only a 3oz jar and a 5oz jar.
@@ -31,6 +33,8 @@ H26 C9N 68 M89SU18 8X9CTLY 42Z 2F 69T81 6ITH 2NLY 9 32Z J91 9ND 9 52Z J91?
 7. Fill 5oz jar
 8. Fill the 3oz jar with the 5oz jar leaving 4oz in the 5 oz jar
 
+HINT:: IF WE POUR FILL THE 3OZ JAR FROM THE 5OZ JAR WE HAVE 2OZ LEFT IN THE 5OZ JAR. HOW CAN WE USE THIS TO OUR ADVANTAGE?
+
 
 ----------------------------------------------------------------------------
 
@@ -45,30 +49,14 @@ H26 C9N 68 M89SU18 8X9CTLY 42Z 2F 69T81 6ITH 2NLY 9 32Z J91 9ND 9 52Z J91?
 b,m,lg,lb,zz...what's next?
 
 33
-Each number is the sum of the previous number and the next prime number in the sequence. It is also true that it is the sum of the previous number and the number two one number behind the previous number[F(n - 1) + F(n - 3)]
+Each number is the sum of the previous number and the next prime number in the sequence. It is also true that it is the sum of the previous number and the number two one number behind the previous number[F(n - 1) + F(n - 3)] BOTH ARE ACCEPTED ANSWERS
 5 + 2 = 7
 7 + 3 = 10
 10 + 5 = 15
 15 + 7 = 22
 22 + 11 = 33
 
-
-----------------------------------------------------------------------------
-
-
-1, 11, 21, 1211, 111221, 312211, 13112221...what's next?
-
-1 = p
-2 = q
-3 = r
-, = z
-. = y
-
-pz ppz qpz pqppz pppqqpz rpqqppz prppqqqpyyywhat's next?
-
-1113213211. This is a counting pattern. 11 as the second
-element is stating that the first element has 1 one. 21 is 
-stating that the second element has 2 ones...etc...etc
+HINT:: AS THE NUMBER INCREASES, HOW MUCH DOES IT INCREASE BY? IS THERE A PATTERN IN THE AMOUNT WE ARE ADDING?
 
 
 ----------------------------------------------------------------------------
@@ -85,6 +73,8 @@ You have two normal U.S. coins that add up to 35 cents. One of the coins is not 
 YOU 60V8 2WO 1ORM0L US COI1S 2602 0DD UP 2O 35 C812S O18 OF 268 COI1S IS 1O2 0 QU0R28R W602 0R8 268 2WO COI1S?
 
 A quarter and a dime. Only one of the coins is not a quarter.
+
+HINT:: READ THE QUESTION CAREFULLY, THE QUESTION IS WORDED VERY SPECIFICALLY. 
 
 
 ----------------------------------------------------------------------------
@@ -105,6 +95,8 @@ I0 8 B4UQU27 4F FL4W2RS 8LL BU7 7W4 8R2 R4S2S 8LL BU7 7W4 8R2 7ULIPS 80D 8LL BU7
 
 Given the way the question is phrased, three is the only possibility
 
+HINT:: RECOMEND GUESS AND CHECK, TRY IT IF THERE ARE TWO ROSES ETC ETC
+
 ----------------------------------------------------------------------------
 
 a. The chicken came first 
@@ -121,6 +113,8 @@ Two of the above statements are true, what is the possibility that the chicken c
 
 The egg came first all other possibilities produce contradictions
 
+HINT:: CAN A AND B BE TRUE? WHAT ABOUT A AND C? WHAT ABOUT B AND C?
+
 ----------------------------------------------------------------------------
 
 If twelve equals six and six equals three then why doesn't ten equal five?
@@ -133,6 +127,8 @@ If twelve equals six and six equals three then why doesn't ten equal five?
 2F 4W91V9 9QUA15 52X AND 52X 9QUA15 4HR99 4H9N WHY DO95N4 49N 9QUA1 F2V9
 
 10=3, 10 has three letters
+
+HINT:: WHAT OTHER NUMERICAL VALUE COULD THESE NUMBERS REPRESENT?
 
 ----------------------------------------------------------------------------
 
@@ -151,6 +147,8 @@ At the same time, burn one end of the other rope.
 When the first rope finishes burning, light the other end of the remaining rope.
 When it burns out, that's 45 minutes.
 
+HINT:: IF WE START BURNING IT ON BOTH ENDS IT WILL BURN TWICE AS FAST, HOW CAN WE USE THIS TO SOLVE THE RIDDLE?
+
 ----------------------------------------------------------------------------
 
 If it were two hours later, it would be half as long until midnight as it would be if it were an hour later. What time is it?
@@ -168,3 +166,25 @@ If it were two hours later, it would be half as long until midnight as it would 
 If the time was T, then T + 2 is half the minutes to midnight compared with T + 1.
 So 1 hour halves the gap.
 This can only happen at 10pm and 11pm, which makes the current time 9pm.
+
+HINT:: 
+
+----------------------------------------------------------------------------
+
+
+1, 11, 21, 1211, 111221, 312211, 13112221...what's next?
+
+1 = p
+2 = q
+3 = r
+, = z
+. = y
+
+pz ppz qpz pqppz pppqqpz rpqqppz prppqqqpyyywhat's next?
+
+1113213211. This is a counting pattern. 11 as the second
+element is stating that the first element has 1 one. 21 is 
+stating that the second element has 2 ones...etc...etc
+
+
+HINT:: WHAT IS IN EACH 

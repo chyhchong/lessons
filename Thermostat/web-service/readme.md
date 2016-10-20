@@ -1,4 +1,9 @@
 # Running the Thermostat Lesson
+## Easy Setup
+1. Spin up an ec2 instance
+2. run `curl -f https://raw.githubusercontent.com/cppignite/lessons/thermostat-webdev/Thermostat/download-and-run.sh | sh`
+
+## Standard Setup
 1. Spin up an ec2 instance
 2. ssh into the instance
 3. Run `sudo yum update`

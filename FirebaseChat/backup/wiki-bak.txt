@@ -1,0 +1,59 @@
+# Overview
+In this lesson we will be creating a chat app that sends and receives messages in real time. We will be using Firebase as our database, and also incorporate voice recognition.
+
+# New Concepts
+### Firebase:
+We will need a database to store all the messages. Firebase is a database that will allow us to store, and receive messages in real-time. Here are the Firebase code blocks that we will be using.
+![Firebase](https://raw.githubusercontent.com/cppignite/lessons/master/FirebaseChat/img/Firebase.png)
+
+### SpeechRecognizer
+The SpeechRecognizer component allows us to use the built in Google Voice Recognition API (Application Programmer Interface) of the phone. Here are the SpeechRecognizer code blocks that we will be using.
+![SpeechRecognizer](https://raw.githubusercontent.com/cppignite/lessons/master/FirebaseChat/img/SpeechRecognizer.png)
+
+### Clock
+We will be using the SystemTime block from the Clock component. This will allow us to get a somewhat unique and in order key for our key-value Firebase database.
+
+![VoiceRecognizer](https://raw.githubusercontent.com/cppignite/lessons/master/FirebaseChat/img/Clock.png)
+
+# Let's Get Started!
+### User Interface Designer:
+We will need  a text box, two buttons, a ListView, a Firebase component, a Clock component, and a SpeechRecognizer component.
+![DesignerView](https://raw.githubusercontent.com/cppignite/lessons/master/FirebaseChat/img/DesignerView.png)
+
+### Firebase Properties
+In the Designer view, under Firebase Properties, use these values for FirebaseURL and ProjectBucket.
+
+FirebaseURL:
+`https://cpp-ignite.firebaseio.com/`
+
+ProjectBucket:
+`Chat_App`
+
+![FirebaseProperties](https://raw.githubusercontent.com/cppignite/lessons/master/FirebaseChat/img/FirebaseProperties.png)
+
+### Logic :
+#### SendButton Setup
+1. Create an event handler for the SendButton (SendButton .Click)
+2. Use the Firebase StoreValue block to store the Text from the MessageBox as the value. For the tag, use the SystemTime from the clock component.
+3. After the Firebase StoreValue, reset the MessageBox to " " so the user can enter the next message. The " " block can be found under Text.
+
+#### MessagesList Setup
+1. Initialize a list to store the messages to an empty list.
+2. Inside a Firebase DataChanged block, add the message Value to the list variable you initialized in step 1(hover your mouse over 'value' to find the 'get value' block). Note: be sure to add the new messages to the start of the list, not the end (hint: use index 1)
+![ListInsert](https://raw.githubusercontent.com/cppignite/lessons/master/FirebaseChat/img/ListInsert.png)
+3. Set the MessageList to the message variable. This will ensure that the UI actually updates with the new messages.
+
+#### TEST
+You should be able to send and receive messages.
+
+#### VoiceRecognizer Setup
+1. See if you can figure this out yourself. The code is very similar to the SendButton. Be sure to use SpeechRecognizer Call GetText, and SpeechRecognizer AfterGettingText blocks.
+
+# Stretch Goals:
+1. Make your app play a sound every time you send or receive a message.
+2. Make you app speak the new incoming messages.
+3. Instead of just showing the message, show the system time, then the message in the format TIME: MESSAGE
+
+# External References:
+
+# [APK Download](https://github.com/cppignite/lessons/raw/master/FirebaseChat/completed/FirebaseChat.apk)

@@ -1,23 +1,23 @@
+<!DOCTYPE html>
+<link rel="stylesheet" type="text/css" href="css/style.css">
+<html>
+<head>
+  <title>My Thermostat</title>
+</head>
+  <body>
+  <div id="conatiner">
+    <h1 id="header">Loading status of Nest</h1>
+    <div id="full-thermo-div">
+      <div id="thermo-img-div" >
+        <img id="thermo" src="img/thermostat-new.png">
+      </div>
+      <div id="arrow-img-div" class="wrapper">
+        <img id="arrow" src="img/arrow-new.png">
+      </div>
+    </div>
+  </body>
+</html>
 <script src="https://www.gstatic.com/firebasejs/3.4.1/firebase.js"></script>
-<script>
-  // Initialize Firebase
-  var config = {
-    apiKey: "AIzaSyCbypyfXPs0URlzy6N8Wo8EGZ_4xk4Eby4",
-    authDomain: "thermostat-1d90c.firebaseapp.com",
-    databaseURL: "https://thermostat-1d90c.firebaseio.com",
-    storageBucket: "thermostat-1d90c.appspot.com",
-    messagingSenderId: "1038669911500"
-  };
-  var mainApp = firebase.initializeApp(config);
-  var tempRef = firebase.database().ref('temp/');
-  tempRef.on('value', function(shapshot) {
-    onNewTemp(shapshot.val());
-  });
-  pushNewTemp = function(temp){
-    tempRef.set(temp);
-  }
-  onNewTemp = function(temp){
-    console.log(temp);
-    //Your code here
-  }
-</script>
+<script   src="http://code.jquery.com/jquery-3.1.1.min.js"   integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8="   crossorigin="anonymous"></script>
+<script type="text/javascript" src="script/rotate.js"></script>
+<script type="text/javascript" src="script/script.js"></script>
